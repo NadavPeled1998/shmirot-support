@@ -3,13 +3,13 @@ body {
   flex-direction: column;
   align-items: center;
   background-color: #DEDABB;
-  img {
-    width: 40vw;
-    text-align: center;
-  }
-  container {
-    text-align: center;
-    width: 40vw;
-    direction: rtl;
-  }
+}
+img {
+  width: 40vw;
+  text-align: center;
+}
+.container {
+  width: 40vw;
+  text-align: center;
+  direction: rtl;
 }
